@@ -1,14 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0FF700&center=true&vCenter=true&width=1000&height=25&lines=Hello...)](https://git.io/typing-svg)
 
 <hr>
-<img src="https://user-images.githubusercontent.com/62628408/116943768-2315aa80-ac6c-11eb-86ff-606147a5b939.gif" align="right" width="300px">
-
-<h3 align="center">About Me</h3>
-<p align="center">
-  Technologies that I use daily are .NET and React + TypeScript, but I also have some knowledge of mobile development using React Native and Expo. For hobby projects I like to       switch for NodeJS or Python. As a DevOps enthusiast, I have been trying to dive further into the topic of security, release management and quality control. I have had the         pleasure of migrating old pipelines and replacing them with new ones, and automating processes to ensure less manual work is required from everyone.
-</p>
-
-<hr>
 
 <p align="center"> 
   <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
